@@ -20,6 +20,7 @@ func main() {
 
 
 	/* Print your value in memory
+ 	
  	Accessed through the operator * */
 	fmt.Println(*x)
 	fmt.Println(*y)
